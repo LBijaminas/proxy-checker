@@ -4,7 +4,7 @@ Scrapes SOCKS proxies of the Internet, checks whether they are working or not, a
 
 Usage
 =============
-Before using the script, please run a command 'chmod a+x proxyChecker.py'; otherwise, the script won't run. Or you can simply run the script by 'python proxyChecker.py [options]'
+Before using the script, please run a command `chmod a+x proxyChecker.py`; otherwise, the script won't run. Or you can simply run the script by `python proxyChecker.py [options]`
             
             
 	usage: ./proxyChecker.py [options]
