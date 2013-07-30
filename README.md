@@ -25,3 +25,7 @@ usage: ./proxyChecker.py [options]
                                               but does not test
              
             -h                                shows this help menu
+
+Future
+=============
+I'd love to add proxies that require authentication to be supported to this tool. However, I don't have any proxies of that type. If anybody has them and would want me to add such thing, please email me.
