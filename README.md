@@ -2,7 +2,7 @@ proxy-checker
 =============
 Scrapes SOCKS proxies of the Internet, checks whether they are working or not, and where they are located. It can also check user provided proxies.
 
-Python setuptools module has to be installed, in order for the script to run.
+Python `setuptools` module has to be installed, in order for the script to run.
 
 Usage
 =============
